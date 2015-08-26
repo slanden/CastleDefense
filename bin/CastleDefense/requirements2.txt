@@ -1,0 +1,17 @@
+requirements for assessment
+
+use a database			// yes (ScoreData- SQLite)
+try-catch			//yes (Textbox)
+STL (vector etc)		// yes (Projectile)
+design pattern (singleton)	//yes (Assets, ScoreData)
+	singleton examples:
+		input manager
+		asset library
+		file IO manager
+		network manager
+		timing
+		window
+		application state
+		level manager
+		factory
+		math library
